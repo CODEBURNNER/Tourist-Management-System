@@ -1,6 +1,6 @@
 # 🌍 Tourist Management System
 
-🚀 **Live Demo**: [Check it out on Vercel](https://tourist-management-system-qy7jyvugm-sak-s-projects.vercel.app)
+🚀 **Live Demo**: [Check it out on Netlify](https://tour-ease-sak.netlify.app/)
 
 ## 📌 Project Overview
 
